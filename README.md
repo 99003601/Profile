@@ -32,7 +32,7 @@ C#
 5.Postman
 
 # Platform
-## 1.Azure DevOps: 
+### 1.Azure DevOps: 
 
     i.Pipeline Creation 
 
@@ -40,7 +40,7 @@ C#
 
     iii.Code Check in
 
-## 2.Github:
+### 2.Github:
 
     i.Git Command 
 
@@ -48,7 +48,7 @@ C#
 
     iii.Workflows
     
-## 3.Azure
+### 3.Azure
 
     i.Creating and managing Virtual Machine
     
@@ -73,7 +73,7 @@ C#
 [Azure Repositories](https://dev.azure.com/nareshmanjunathmoger)
 
 # Projects
-1.[Demokart App - Created a program for Managing Online Shopping](https://github.com/99003601/DemoKart)
+1.[Demokart App - Created console app for Managing Online Shopping](https://github.com/99003601/DemoKart)
 
 2.[Embedded Lab Managment - Created a API for Embedded Lab Managment](https://dev.azure.com/nareshmanjunathmoger/99003601_Emb_Lab_Mgmt)
 
