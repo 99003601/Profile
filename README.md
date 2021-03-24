@@ -54,7 +54,7 @@ C#
     
 # Badges
 ## Hackerrank Badges
-![Badges](https://user-images.githubusercontent.com/78849903/112252554-50416700-8c83-11eb-9559-3ea7d77dcfa4.PNG)
+![Badges](https://github.com/99003601/Profile/blob/main/Images/Badges.PNG)
 
 ## Microsoft Badges
 [Achievements](https://docs.microsoft.com/en-us/users/nareshmanjunathmoger-3511/achievements)
