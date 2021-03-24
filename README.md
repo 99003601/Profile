@@ -65,7 +65,7 @@ C#
 # Certification
 [Hackerrank Certificate](https://www.hackerrank.com/certificates/b25c6f866f3c)
 
-![Certificate](https://user-images.githubusercontent.com/78849903/112254012-d3fc5300-8c85-11eb-8f5d-be1ba8fac422.PNG)
+![Certificate](https://github.com/99003601/Profile/blob/main/Images/Certificate.PNG)
 
 # Links
 [Github Repositories](https://github.com/99003601)
